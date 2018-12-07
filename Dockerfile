@@ -1,1 +1,1 @@
-FROM grc.io/google_contanier/pause-amd64:3.1
+FROM grc.io/google_contaniers/pause-amd64:3.1
